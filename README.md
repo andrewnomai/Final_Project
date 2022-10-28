@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-We are looking at a dataset from Kaggle based upon the Netflix movie recommender system. This data is on all the movies that are available on the Netflix webiste, the duration of the movies, ratings from the IMDB website, votes by people, the year run-time, genre, and certificate. The goal is to analyze trends in which Netflix users create based upon the selection of movies. 
+We are looking at a dataset from Kaggle based upon the Netflix movie recommender system. This data is on all the movies that are available on the Netflix webiste, the duration of the movies, ratings from the IMDB website, votes by people, the year run-time, genre, and certificate. The goal is to analyze trends in which Netflix users create based upon the selection of movies. We picked this topic because we hope to predict which movies/shows would be successful in the future and in turn, provide what a base formula for what could be considered a successful movie in the future.
 
 ##### Questions to be answered
 1. What genre has best votes/ratings by year?
