@@ -14,7 +14,8 @@ We will clean and modify the Netflix movies data obtained from kaggle  in order 
   In additon, what is there any correlation between more mature ratings and the popularity of a movie/show?
 
 
-PostgresSQl for our database/
-Jupyternotebook for cleaning data/
-Python Scikit-Learn to analayze Netflix movies data and create a movie reccommendation system
+##### Technology
+We will be using PostgresSQL for our database, building tables to compare trends by evaluating correlations related to the questions to answer for our target audience. 
+We will be using Jupyter Notebook to implement our data and clean it accordingly, to make it ready for analysis. We will write code to clean up unnecessary columns, as well as remove rows without values in them. We will also sort the data according to ratings, votes, certificates, and by year. Then we will analyze them accordingly throughout a span of years and use this data to plot models to visualize trends and use them to predict successful movies in order to evaluate a possible formula for future movie success. 
+We will be using Python Scikit to analyze the data and produce a recommendation system that would provide movie recommendations according to their success as previously predicted.
 
