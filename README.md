@@ -19,3 +19,6 @@ We will be using PostgresSQL for our database, building tables to compare trends
 We will be using Jupyter Notebook to implement our data and clean it accordingly, to make it ready for analysis. We will write code to clean up unnecessary columns, as well as remove rows without values in them. We will also sort the data according to ratings, votes, certificates, and by year. Then we will analyze them accordingly throughout a span of years and use this data to plot models to visualize trends and use them to predict successful movies in order to evaluate a possible formula for future movie success. 
 We will be using Python Scikit to analyze the data and produce a recommendation system that would provide movie recommendations according to their success as previously predicted.
 
+##### Database
+An ERD showcasing the inter-relationships between each of the features from the different datasets can be found here https://github.com/andrewnomai/Final_Project/blob/main/Database/Neflix_data_ERD.png
+
