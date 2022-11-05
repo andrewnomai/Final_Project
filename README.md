@@ -21,6 +21,7 @@ We will be using Python Scikit to analyze the data and produce a recommendation 
 
 ##### Database
 -PostgresSQL
+
 Utilized python and excel to clean and transform the data to then be written into PostgreSQL. The data was divided into two tables for storage and further usage in the project.
 
 An ERD showcasing the inter-relationships between each of the features from the data from different tables can be found here https://github.com/andrewnomai/Final_Project/blob/main/Database/Neflix_data_ERD.png
