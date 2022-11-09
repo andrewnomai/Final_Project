@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-We are looking at a dataset from Kaggle based upon the Netflix movie recommender system. This data is on all the movies that are available on the Netflix webiste, the duration of the movies, ratings from the IMDB website, votes by people, the year run-time, genre, and certificate. The goal is to analyze trends in which Netflix users create based upon the selection of movies. We picked this topic because we hope to predict which movies/shows would be successful in the future and in turn, provide what a base formula for what could be considered a successful movie in the future. 
+We are looking at a dataset from Kaggle based upon the Netflix movie web scraping This data is from web scraping through the IMDB website on movies that are available on Netflix. Our goal is to use the data obtained to create a movie classification system to predict ratings for movies based specific inputs using machine learning. 
 
 ### Purpose
 We will clean and modify the Netflix movies data obtained from kaggle  in order to create a movie reccommendation system using machine learning. 
