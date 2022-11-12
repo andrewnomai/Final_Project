@@ -1,0 +1,5 @@
+# Our movie rating data was preprocessed by importing a standard scaler method which was split into an X_train, X_test, y_train, and y_test.
+# Our team chose to look at the rating data since that was what we were trying to predict. A benefit to this choice of our model was that it was able to generate a table and keep our columns organized. However, I wish there was a way to categorize the value of ratings into good, excellent, or bad. 
+# The changes in model choice involved analyzing the rating column and including syntax for the rating length, i.e. "rating_le." This enabled a new column in our table called rating_le and it had a list of random numbers.
+# The model has been trained through a variety of ways including an 80/20 split as well as shaping the training and testing sets. 
+# The accuracy scored ranged between 58-60%
