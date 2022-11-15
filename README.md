@@ -31,15 +31,8 @@
 - We decided to group the categories into 3 parts: "Bad", "Good", and "Excellent". The benefit of this model is that it can be used to predict and group movies in certain categories based on its outcome. The downside is that the outcome is limited to being based on the categories listed. 
 - Through LogisticsRegression, the accuraccy rate for the model about 95% in predicting the movie rating categories. 
 
+## Presentation
+- Our presentation is as presented here https://docs.google.com/presentation/d/1nKclod1WvhImi0EeFVQBVd8jr12T21EyCiDaA8bi1NQ/edit?usp=sharing
 
-We will be using PostgresSQL for our database, building tables to compare trends by evaluating correlations related to the questions to answer for our target audience. 
-We will be using Jupyter Notebook to implement our data and clean it accordingly, to make it ready for analysis. We will write code to clean up unnecessary columns, as well as remove rows without values in them. We will also sort the data according to ratings, votes, certificates, and by year. Then we will analyze them accordingly throughout a span of years and use this data to plot models to visualize trends and use them to predict successful movies in order to evaluate a possible formula for future movie success. 
-We will be using Python Scikit to analyze the data and produce a recommendation system that would provide movie recommendations according to their success as previously predicted.
-
-##### Database
--PostgresSQL
-
-Utilized python and excel to clean and transform the data to then be written into PostgreSQL. The data was divided into two tables for storage and further usage in the project.
-
-An ERD showcasing the inter-relationships between each of the features from the data from different tables can be found here https://github.com/andrewnomai/Final_Project/blob/main/Database/Neflix_data_ERD.png
-
+## Dashboard
+- We used Tableau to construct our dashboard and our analysis can be found here
