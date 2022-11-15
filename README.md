@@ -11,7 +11,7 @@
 ## Source Data
 - We are looking at a dataset from Kaggle based upon the Netflix movie web scraping. This data is from web scraping through the IMDB website on movies that are available on Netflix.
 
-## Questions we hope to answer ****
+## Questions we hope to answer
 1. Based on different inputs, how could we evaluate and group movies based on rating?
 
 ## Tools
