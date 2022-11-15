@@ -32,7 +32,7 @@
 - Through LogisticsRegression, the accuraccy rate for the model about 95% in predicting the movie rating categories. 
 
 ## Presentation
-- Our presentation is as presented here https://docs.google.com/presentation/d/1nKclod1WvhImi0EeFVQBVd8jr12T21EyCiDaA8bi1NQ/edit?usp=sharing
+- Our presentation is as presented here [Presentation] (https://docs.google.com/presentation/d/1nKclod1WvhImi0EeFVQBVd8jr12T21EyCiDaA8bi1NQ/edit?usp=sharing)
 
 ## Dashboard
 - We used Tableau to construct our dashboard and our analysis can be found here
