@@ -30,7 +30,7 @@
 - The initial dataset had to be modified through preprocessing by using LabelEncoder to transform column values so that it could be utitlized for the model. The title column was dropped and the columns certificate and genre were encoded for such usage.
 - The data was split into a training and test data using the train_test_split function.
 - We decided to group the categories into 3 parts: "Bad", "Good", and "Excellent". The benefit of this model is that it can be used to predict and group movies in certain categories based on its outcome. The downside is that the outcome is limited to being based on the categories listed. 
-- Through LogisticsRegression, the accuraccy rate for the model about 95% in predicting the movie rating categories. 
+- Through Classification, the accuraccy rate for the model about 95% in predicting the movie rating categories. 
 
 ## Presentation
 - Our presentation is as presented here [Presentation](https://docs.google.com/presentation/d/1nKclod1WvhImi0EeFVQBVd8jr12T21EyCiDaA8bi1NQ/edit?usp=sharing)
