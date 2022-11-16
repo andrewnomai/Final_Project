@@ -13,6 +13,7 @@
 
 ## Questions we hope to answer
 1. Based on different inputs, how could we evaluate and group movies based on rating?
+2. How can we provide better movie recommendations based on grouping movies in rating categories?
 
 ## Tools
 - Database
