@@ -36,4 +36,4 @@
 - Our presentation is as presented here [Presentation](https://docs.google.com/presentation/d/1nKclod1WvhImi0EeFVQBVd8jr12T21EyCiDaA8bi1NQ/edit?usp=sharing)
 
 ## Dashboard
-- We used Tableau to construct our dashboard and our analysis can be found here
+- We used Tableau to construct our dashboard and our analysis can be found here [Tableau](https://public.tableau.com/views/FinalProjectNetflixData/Dashboard2?:language=en-US&:display_count=n&:origin=viz_share_link)
